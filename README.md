@@ -7,7 +7,7 @@ Users can:
 - View current temperature, wind speed, and local time
 - Get feedback for loading, errors, or unknown cities
 
-![Badge](https://img.shields.io/badge/made%20with-☀️%20vanilla%20JS%20+%20Tailwind-blue)
+![Badge](https://img.shields.io/badge/made%20with-💛%20vanilla%20JS-brightgreen)
 ![TailwindCSS](https://img.shields.io/badge/styled%20with-Tailwind%20CSS-38bdf8?logo=tailwindcss&logoColor=white)
 
 
